@@ -1,0 +1,16 @@
+,video_name,tag
+0,dataset/test/Goal/Goal2.mp4,Goal
+1,dataset/test/Goal/Goal5.mp4,Goal
+2,dataset/test/Goal/Goal1.mp4,Goal
+3,dataset/test/Goal/Goal4.mp4,Goal
+4,dataset/test/Goal/Goal3.mp4,Goal
+5,dataset/test/Happy/Happy5.mp4,Happy
+6,dataset/test/Happy/Happy3.mp4,Happy
+7,dataset/test/Happy/Happy4.mp4,Happy
+8,dataset/test/Happy/Happy1.mp4,Happy
+9,dataset/test/Happy/Happy2.mp4,Happy
+10,dataset/test/Loss/Loss2.mp4,Loss
+11,dataset/test/Loss/Loss4.mp4,Loss
+12,dataset/test/Loss/Loss1.mp4,Loss
+13,dataset/test/Loss/Loss5.mp4,Loss
+14,dataset/test/Loss/Loss3.mp4,Loss
